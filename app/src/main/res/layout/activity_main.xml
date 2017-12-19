@@ -10,7 +10,10 @@
     tools:context="com.example.myapplication_nihao.MainActivity">
 
     <TextView
+        android:id="@+id/huanying"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!" />
+
+        android:layout_centerInParent="true"
+        android:text="欢迎来到积云教育" />
 </RelativeLayout>
